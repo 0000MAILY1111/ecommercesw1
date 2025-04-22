@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 "# geoservmap" 
 "# ecommercesw1" 
 "# SmartCart" 
+"# SmartCart" 
