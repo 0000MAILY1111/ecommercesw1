@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 "# fotos" 
 "# geoservmap" 
 "# ecommercesw1" 
+"# SmartCart" 
